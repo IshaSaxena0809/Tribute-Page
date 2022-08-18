@@ -1,0 +1,47 @@
+body{
+    background-color:#948585;
+    }
+    .mainpage{
+    margin-left:200px;
+    height:auto;
+    width:70%;
+    background-color:#520202;
+    box-shadow:5px 5px 5px #252424;
+    }
+    *{
+    font-family:Georgia, "Times New Roman", Times, serif;
+    }
+    h1.heading1,h5{
+    text-align:center;
+    color:#FFFFFF;
+    padding:5px;
+    }
+    img{
+    height: 250px;
+    margin-left: 339px;
+    }
+    table{
+    padding:10px;
+    }
+    caption{
+    background-color:#993300;
+    color:#660000;
+    padding:7px;
+    font-weight:bold;
+    }
+    td{
+    background-color:#330000;
+    padding:5px;
+    }
+    table td:nth-child(odd){
+    color:#2dcaad;
+    font-size:18px;
+    }
+    table td:nth-child(even){
+    color:#e1d9ea;
+    }
+    p{
+    text-align:center;
+    padding:10px;
+    color:#e1d9ea;
+    }
